@@ -1,3 +1,7 @@
+> # Archival Notice
+> 
+> This repository will no longer be maintained by UserTesting, and will be archived in the near future. The most recent version of this gem will still be published and available to use. Thank you to everyone who contributed to this project!
+
 Streamio FFMPEG
 ===============
 
